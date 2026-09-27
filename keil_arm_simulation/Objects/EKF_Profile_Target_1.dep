@@ -1,0 +1,5 @@
+Dependencies for Project 'EKF_Profile', Target 'Target_1': (DO NOT MODIFY !)
+CompilerVersion: 6240000::V6.24::ARMCLANG
+F (.\main.c)(0x6AB9624F)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ../c_ekf_core-I./RTE/_Target_1-IC:/Users/USER/AppData/Local/Arm/Packs/ARM/CMSIS/6.3.0/CMSIS/Core/Include-D__UVISION_VERSION="543" -DSTM32F401xE -D_RTE_-o ./objects/main.o -MMD)
+I (..\c_ekf_core\mems_sensor_data.h)(0x6AB95682)
+F (..\c_ekf_core\mems_sensor_data.h)(0x6AB95682)()
