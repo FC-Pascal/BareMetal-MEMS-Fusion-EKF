@@ -1,5 +1,7 @@
 # Bare-Metal MEMS Sensor Fusion: Extended Kalman Filter (EKF)
 
+## 📄 **[Read the full technical report here](Oloore_Issa_Abayomi_BareMetal_EKF_Report.pdf)**
+
 A hardware-agnostic, zero-dependency Extended Kalman Filter implemented entirely from scratch in C for an ARM Cortex-M4 (`STM32F401`) target. This project intentionally bypasses vendor abstraction layers (CubeMX/HAL) to demonstrate deep low-level systems competence, custom vector table mapping, and direct hardware FPU utilization.
 
 ---
